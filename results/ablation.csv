@@ -1,0 +1,13 @@
+seed,config,chi_star,fixed_cap,err_fixed_cap
+0,no noise,256.0,16,0.14626659545111798
+0,+ two-qubit depolarising,16.0,16,0.004949880644305765
+0,+ idle dephasing,16.0,16,0.0037841688010352426
+0,+ single-qubit depolarising,16.0,16,0.0033233206866010723
+1,no noise,64.0,16,0.14132103232614968
+1,+ two-qubit depolarising,16.0,16,0.006150123871233565
+1,+ idle dephasing,16.0,16,0.003551441816296741
+1,+ single-qubit depolarising,16.0,16,0.0027304434321071824
+2,no noise,64.0,16,0.161700273650545
+2,+ two-qubit depolarising,16.0,16,0.0040083050115135715
+2,+ idle dephasing,16.0,16,0.003122117352560211
+2,+ single-qubit depolarising,16.0,16,0.002803340248986874
