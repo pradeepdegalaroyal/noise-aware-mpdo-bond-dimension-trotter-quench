@@ -1,0 +1,28 @@
+{
+  "aer_max_abs_deviation": 1.6375789613221059e-15,
+  "cases": [
+    {
+      "n": 4,
+      "steps": 3,
+      "p2": 0.03,
+      "deviation": 1.942890293094024e-16
+    },
+    {
+      "n": 6,
+      "steps": 4,
+      "p2": 0.05,
+      "deviation": 1.6375789613221059e-15
+    },
+    {
+      "n": 6,
+      "steps": 4,
+      "p2": 0.0,
+      "deviation": 4.440892098500626e-16
+    }
+  ],
+  "transpile_n8_one_step": {
+    "cx": 14,
+    "rzz_in_circuit": 7,
+    "depth": 12
+  }
+}

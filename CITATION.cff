@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Noise-Aware Matrix-Product Density-Operator Simulation of Noisy Trotter Quench Circuits: Where Gate Noise Lowers the Classical Cost"
+type: software
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+version: 0.1.0
+date-released: 2026-11-02
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/noise-aware-mpdo-bond-dimension-trotter-quench"
+keywords:
+  - matrix product density operator
+  - tensor networks
+  - classical simulability
+  - Trotter dynamics
+  - quantum noise
